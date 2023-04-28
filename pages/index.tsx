@@ -10,7 +10,7 @@ const Home = () => {
     return (
         <div>
             <Navbarlogin />
-            <div className="w-[100%] h-[100vh] grid grid-rows-2 bg-[pink]">
+            <div className="w-[100%] h-[100vh] grid grid-rows-2 bg-gray-50">
                 <div className="bg-grey w-[100%] h-[100%] grid grid-cols-1 sm:grid-cols-2 place-content-center gap-4 text-left border-b-[12px] border-verde">
                     <div className="p-8">
                         <h1 className="text-3xl sm:text-6xl text-verde font-bold">Administra tu dinero de la mejor manera</h1>
